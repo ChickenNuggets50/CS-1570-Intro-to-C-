@@ -1,0 +1,21 @@
+Name: Kim Possible
+Age: 16
+Occupation: Student
+Number of Codemon Owned: 1
+Security: 2
+WARNING: Entrant with level of 2 entered a zone of level 4
+
+Name: Harry Potter
+Age: 8
+Occupation: Student
+Number of Codemon Owned: 2
+Security: 1
+WARNING: Entrant with level of 1 entered a zone of level 4
+
+Name: Timmy Turner
+Age: 12
+Occupation: Student
+Number of Codemon Owned: 2
+Security: 1
+WARNING: Entrant with level of 1 entered a zone of level 4
+

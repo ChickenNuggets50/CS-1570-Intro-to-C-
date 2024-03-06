@@ -1,0 +1,14 @@
+Name: Bobson Dugnutt
+Age: 41
+Occupation: Student
+Number of Codemon Owned: 1
+Security: 2
+WARNING: Classified as Student at age 41
+
+Name: Mike Truk
+Age: 38
+Occupation: Staff
+Number of Codemon Owned: 11
+Security: 3
+WARNING: Entrant has too many codemon, entrant has 11 codemon, the third quartile is 6
+
